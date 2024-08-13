@@ -98,7 +98,7 @@ void main() {
 
       test('passes meterial options argument correctly', () async {
         const AndroidOptions androidOptions = AndroidOptions(
-          actionBarTitle: "Aciton bar",
+          actionBarTitle: "Action bar",
           allViewTitle: "All view title",
           actionBarColor: Colors.black,
           actionBarTitleColor: Colors.white,
