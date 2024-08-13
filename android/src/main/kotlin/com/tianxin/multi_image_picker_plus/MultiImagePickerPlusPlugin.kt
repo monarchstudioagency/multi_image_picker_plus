@@ -1,4 +1,4 @@
-package com.tianxin.multi_image_picker_plus
+package com.monarch.multiple_image_picker
 
 import android.annotation.SuppressLint
 import android.app.Activity
